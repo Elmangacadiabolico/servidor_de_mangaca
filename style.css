@@ -1,0 +1,33 @@
+.contenedor{
+    display: grid;
+    grid-template-columns: 33% 33%;
+    gap: 0px;
+    width: 500px;
+}
+
+.valores1{
+    background-color: aqua;
+    width: 200px;
+    height: 30px;
+    color: darkred;
+    display: grid;
+    grid-template-columns: 33% 33%;
+    margin-top:30px
+}
+
+.valores2{
+    background-color: #333;
+    width: 200px;
+    height: 30px;
+    color: white;
+    display: grid;
+    grid-template-columns: 33% 33%;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
