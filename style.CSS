@@ -5,7 +5,7 @@
     width: 500px;
 }
 
-.valores1{
+.Nombre{
 
     background-color: aqua;
     width: 200px;
@@ -18,7 +18,7 @@
 
 }
 
-.valores2{
+.valor-cantidad{
     background-color: #333;
     width: 200px;
     height: 30px;
@@ -30,5 +30,109 @@ margin-top: 30px;
 
 }
 
+
+.Nombre-cant{
+    background-color: #17c130;
+    width: 200px;
+    height: 30px;
+    color: rgb(157, 86, 24);
+    display: grid;
+    grid-template-columns: 33% 33%;
+margin-top: 30px;
+   
+
+}
+
+.valor-cantidad2{
+    background-color: #ff0000;
+    width: 200px;
+    height: 30px;
+    color: rgb(166, 25, 25);
+    display: grid;
+    grid-template-columns: 33% 33%;
+margin-top: 30px;
+   
+
+}
+
+.Nombre-Fecha{
+
+    background-color: rgb(217, 231, 22);
+    width: 200px;
+    height: 30px;
+    color: rgb(0, 139, 93);
+    display: grid;
+    grid-template-columns: 33% 33%;
+
+    margin-top:30px
+
+}
+
+.valor-cantidad3{
+
+    background-color: rgb(89, 0, 231);
+    width: 200px;
+    height: 30px;
+    color: rgb(255, 0, 0);
+    display: grid;
+    grid-template-columns: 33% 33%;
+
+    margin-top:30px
+
+}
+
+
+.Nombre-Tags{
+
+    background-color: rgb(223, 0, 231);
+    width: 200px;
+    height: 30px;
+    color: rgb(191, 255, 0);
+    display: grid;
+    grid-template-columns: 33% 33%;
+
+    margin-top:30px
+
+}
+
+.valor-cantidad4{
+
+    background-color: rgb(0, 231, 27);
+    width: 200px;
+    height: 30px;
+    color: rgb(15, 45, 51);
+    display: grid;
+    grid-template-columns: 33% 33%;
+
+    margin-top:30px
+
+}
+
+
+.Nombre-Estado{
+
+    background-color: rgb(231, 0, 131);
+    width: 200px;
+    height: 30px;
+    color: rgb(0, 255, 221);
+    display: grid;
+    grid-template-columns: 33% 33%;
+
+    margin-top:30px
+
+}
+
+.valor-cantidad5{
+
+    background-color: rgb(0, 30, 255);
+    width: 200px;
+    height: 30px;
+    color: rgb(162, 0, 255);
+    display: grid;
+    grid-template-columns: 33% 33%;
+
+    margin-top:30px
+
+}
 
 
